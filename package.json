@@ -1,16 +1,16 @@
 {
   "name": "teosi", 
-  "version": "1.0.1", 
+  "version": "1.0.2", 
   "author": "zz415929", 
   "description": "common toolkit", 
   "keywords": ["utils", "format", "money", "phone"], 
   "repository": {
     "type": "git",
-    "url": "https://github.com/zz415929/bb_tea"
+    "url": "https://github.com/zz415929/teosi"
   },
   "license": "ISC",
   "homepage": "https://discord.gg/2XbtkPzAGp",
-  "bugs": "https://github.com/zz415929/bb_tea/issues",
+  "bugs": "https://github.com/zz415929/teosi/issues",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

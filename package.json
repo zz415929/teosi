@@ -1,6 +1,6 @@
 {
   "name": "bb-tea", 
-  "version": "1.0.0", 
+  "version": "1.0.1", 
   "author": "zz415929", 
   "description": "common toolkit", 
   "keywords": ["utils", "format", "money", "phone"], 
@@ -16,6 +16,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "bb-tea": "^1.0.0"
+    "bb-tea": "^1.0.1"
   }
 }

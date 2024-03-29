@@ -1,0 +1,21 @@
+{
+  "name": "bb-tea", 
+  "version": "1.0.0", 
+  "author": "zz415929", 
+  "description": "common toolkit", 
+  "keywords": ["utils", "format", "money", "phone"], 
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zz415929/bb_tea"
+  },
+  "license": "ISC",
+  "homepage": "https://discord.gg/2XbtkPzAGp",
+  "bugs": "https://github.com/zz415929/bb_tea/issues",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bb-tea": "^1.0.0"
+  }
+}
